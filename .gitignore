@@ -1,0 +1,7 @@
+.vagrant/
+*.pyc
+.tox
+*.swp
+
+src/celerybeat-schedule
+
